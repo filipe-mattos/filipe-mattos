@@ -45,21 +45,12 @@
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
 <img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/shopify-339933.svg?&style=for-the-badge&logo=shopify&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
  
-<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=for-the-badge&logo=php&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/zend-framework-68B604.svg?&style=for-the-badge&logo=zend-framework&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Lumen-E74430.svg?&style=for-the-badge&logo=Lumen&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/symfony-000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Woo-96588A.svg?&style=for-the-badge&logo=Woo&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=.NET&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/shopify-339933.svg?&style=for-the-badge&logo=shopify&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/magento-F68D2E.svg?&style=for-the-badge&logo=magento&logoColor=white"></img>
 
-
+<img height="25" src="https://img.shields.io/badge/AWS-E15500.svg?&style=for-the-badge&logo=AWS&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
