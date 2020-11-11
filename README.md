@@ -45,6 +45,7 @@
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
 <img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/shopify-339933.svg?&style=for-the-badge&logo=shopify&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
  
 <img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
