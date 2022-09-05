@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/filipe-mattos)   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-magioni-mattos-422661196/) 
 [![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe14mattos@gmail.com)
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/filipemattos)
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/filipe_magioni)
 
 **About me:**
 
@@ -37,9 +37,12 @@
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
- 
+<img height="25" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
+<img height="25" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
+
 <img height="25" src="https://img.shields.io/badge/shopify-339933.svg?&style=for-the-badge&logo=shopify&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/magento-F68D2E.svg?&style=for-the-badge&logo=magento&logoColor=white"></img>
 
 <img height="25" src="https://img.shields.io/badge/AWS-E15500.svg?&style=for-the-badge&logo=AWS&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
