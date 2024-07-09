@@ -7,7 +7,7 @@
 
 **About me:**
 
-- 🚀 e-commerce developer / frontend developer
+- 🚀 Web developer
 - 🎓 Graduating in Information Systems
 - 📫 How to reach me: filipe14mattos@gmail.com
 - 🇧🇷 Live in Brazil
@@ -41,8 +41,6 @@
 <img height="25" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
 <img height="25" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
-
-<img height="25" src="https://img.shields.io/badge/shopify-339933.svg?&style=for-the-badge&logo=shopify&logoColor=white"></img>
 
 <img height="25" src="https://img.shields.io/badge/AWS-E15500.svg?&style=for-the-badge&logo=AWS&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
